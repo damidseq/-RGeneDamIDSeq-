@@ -23,7 +23,7 @@ install
 `biocLite(c("QuasR", "ShortRead", "GenomicRanges", "S4Vectors", "IRanges",`   
 `"BiocInstaller", "Biobase", "Biostrings", "BSgenome", "GenomicFeatures", `    
 `"GenomicAlignments", "BiocParallel", "GenomeInfoDb", "rtracklayer", `    
-`"GenomicFiles", "Rbowtie"))`  
+`"GenomicFiles", "Rbowtie", "biomaRt"))`  
 
 4) install GeneDamIDSeq in R   
 (exchange `PATH` with the path to the installation file on your disk)  
